@@ -1,0 +1,55 @@
+
+
+.search-button {
+    background-color: #f2f2f2;
+    border: none;
+    color: #333;
+    padding: 5px 10px;
+    cursor: pointer;
+    height: 40px;
+    width: 800px;
+    
+}
+
+.search-button i {
+    color: purple;
+}
+.searchy{
+    display: flex;
+    justify-content: center;
+}
+ .card-container {
+     display: flex;
+     justify-content: space-between;
+ }
+
+ .card {
+     width: 200px;
+     height: 150px;
+     border: 1px solid #ccc;
+     border-radius: 5px;
+     text-align: center;
+     margin: 10px;
+     padding: 10px;
+ }
+ .texty{
+    color: black;
+    text-align: center;
+    margin-top:30px;
+ }
+ .small-texty{
+    color: black;
+text-align: center;
+ margin-top: 30px;
+ font-weight: 500;
+ font-size: 15px;
+ }
+ .low{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    color: grey;
+ }
+about-us {
+    background: red;
+}
